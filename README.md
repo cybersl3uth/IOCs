@@ -1,3 +1,3 @@
 # IOCs
 
-## A collection of IOCs for 2025
+## A repo of various IOCs for threat hunting
